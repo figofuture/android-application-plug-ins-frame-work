@@ -1,6 +1,8 @@
 # android-application-plug-ins-frame-work
 Automatically exported from code.google.com/p/android-application-plug-ins-frame-work
 
+安卓应用程序插件化开发框架 -AAP Framework
+
 介绍
 这个框架的初衷，是为了方便让程序模块化、插件化，将一个apk应用拆分为多个apk。
 不明白这个插件化、模块化是怎么回事的话，可以看看腾讯微信的安卓客户端中的插件配置。
